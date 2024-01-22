@@ -45,9 +45,10 @@ Path: (0,0)&rarr;(1,0)&rarr;(2,0)&rarr;(2,1)&rarr;(2,2)&rarr;(2,3)&rarr;(1,3)&ra
       <li><code>BFS</code>: which applies the Breadth-First Search (BFS) algorithm and returns the results </li>
     </ul>
   <li>The first line of the BFS function indicating the start and end points consecutively</li>
+</ol>
 
 <br>
-    
+
 ## Screenshots
 <em>Adjacency List Representation of the Output Graph</em>
    <br><br>
