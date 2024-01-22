@@ -1,4 +1,4 @@
-# Project Title
+# Exercise Title
 In this exercise, a provided input of a grid with some obstacles as shown in the below screenshot. The goal is to write a Python function that finds the shortest walking distance from top-left corner (S: start) to the bottom-left corner (T: target) of the grid. The applied algorithm was Breadth-First Search (BFS) algorithm. 
 
 <br>
